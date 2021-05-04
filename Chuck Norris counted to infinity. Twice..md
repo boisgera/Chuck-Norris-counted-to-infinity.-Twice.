@@ -6,13 +6,12 @@ How did he do it?
 Chuck Norris makes the integers
 ================================================================================
 
-> God made the integers, all else is the work of man.
->
-> Leopold Kronecker.
+According to Leopold Kronecker:
 
-Since Chuck Norris is no mere mortal, he can also "make the integers". 
-All that he requires is the empty set $\{\}$ and the ability to build new
-sets from this primitive.
+> God made the integers, all else is the work of man.
+
+But since Chuck Norris is no mere mortal, he can also "make the integers". 
+All that he requires is the empty set $\{\}$ and the ability to build new sets.
 
 Appendix
 ================================================================================
