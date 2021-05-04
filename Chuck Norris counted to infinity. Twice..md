@@ -12,7 +12,7 @@ Appendix
 ================================================================================
 
 If you having been living under a rock. Or if you are young. 
-Or if you gave good taste:
+Or if you have good taste:
 
 > Chuck Norris facts are satirical factoids about American martial artist and 
 > actor Chuck Norris that have become an Internet phenomenon and as a result 
