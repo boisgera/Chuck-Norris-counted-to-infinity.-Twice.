@@ -27,5 +27,5 @@ Or if you have good taste:
 >
 > Source: [Wikipedia](https://en.wikipedia.org/wiki/Chuck_Norris_facts).
 
-The "Chuck Norris counted to infinity. Twice" is among the most popular
+The "Chuck Norris counted to infinity. Twice." is among the most popular
 Chuck Norris facts according to <https://chucknorrisfacts.net/top-100>.
