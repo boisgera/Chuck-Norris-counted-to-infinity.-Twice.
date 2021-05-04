@@ -3,10 +3,16 @@
 
 How did he do it?
 
-Chuck creates the integers
+Chuck Norris makes the integers
 ================================================================================
 
-"God made the integers, all else is the work of man", according to Leopold Kronecker.
+> God made the integers, all else is the work of man.
+>
+> Leopold Kronecker.
+
+Since Chuck Norris is no mere mortal, he can also "make the integers". 
+All that he requires is the empty set $\{\}$ and the ability to build new
+sets from this primitive.
 
 Appendix
 ================================================================================
