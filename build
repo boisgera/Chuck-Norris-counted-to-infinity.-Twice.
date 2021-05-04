@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+pandoc -o 'Chuck Norris counted to infinity. Twice..pdf' 'Chuck Norris counted to infinity. Twice..md'

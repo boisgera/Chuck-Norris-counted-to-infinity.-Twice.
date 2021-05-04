@@ -1,10 +1,12 @@
 % Chuck Norris counted to infinity. Twice.
 % Sébastien Boisgérault, MINES ParisTech
 
-God made the integers
+How did he do it?
+
+Chuck creates the integers
 ================================================================================
 
-... all else is the work of man, according to Leopold Kronecker.
+"God made the integers, all else is the work of man", according to Leopold Kronecker.
 
 Appendix
 ================================================================================
